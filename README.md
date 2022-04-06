@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **BACKEND USING PHP**
 
-- 📫 How to reach me **HARDIK3259@GMAIL.COM**
+- 📫 How to reach me **hardik3259@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
