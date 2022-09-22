@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HARDIK PARMAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **BACKEND USING PHP**
+- 🌱 I’m currently learning Android Development using java
 
 - 📫 How to reach me **hardik3259@gmail.com**
 
